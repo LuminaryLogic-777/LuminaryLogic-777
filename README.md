@@ -41,8 +41,7 @@
 ## Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonai-barua/)
 
-## 🎵 Listen with me on Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316ur5fiwzlzdoi7mkheyoegr3c4&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=316ur5fiwzlzdoi7mkheyoegr3c4&redirect=true)
+
 
 ## Technical Stack
 <p align="center">
