@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 Interested in MERN stack, React Js, Next Js, Node js.
-- 🌱 Currently working as a React JS developer at ClayMind Solutions Pvt Ltd.
+- 🌱 Currently working as a Assistant System Engineer at Stylopay Pvt Ltd.
 - 💼 Looking to collaborate on a team to achieve goals and build amazing projects.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sonai-barua/), [Portfolio](https://port-folio-phi-neon.vercel.app/)
 
